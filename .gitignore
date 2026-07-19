@@ -1,0 +1,17 @@
+# Gizli bilgiler
+.env
+
+# Bot çıktıları (kod değil, veri)
+images/
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
